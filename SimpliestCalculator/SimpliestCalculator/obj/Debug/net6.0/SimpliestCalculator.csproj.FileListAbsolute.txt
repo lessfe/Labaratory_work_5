@@ -1,0 +1,15 @@
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\bin\Debug\net6.0\SimpliestCalculator.exe
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\bin\Debug\net6.0\SimpliestCalculator.deps.json
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\bin\Debug\net6.0\SimpliestCalculator.runtimeconfig.json
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\bin\Debug\net6.0\SimpliestCalculator.dll
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\bin\Debug\net6.0\SimpliestCalculator.pdb
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.csproj.AssemblyReference.cache
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.AssemblyInfoInputs.cache
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.AssemblyInfo.cs
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.dll
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\refint\SimpliestCalculator.dll
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.pdb
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\SimpliestCalculator.genruntimeconfig.cache
+C:\Users\vladi\Labaratory_work_5\SimpliestCalculator\SimpliestCalculator\obj\Debug\net6.0\ref\SimpliestCalculator.dll
