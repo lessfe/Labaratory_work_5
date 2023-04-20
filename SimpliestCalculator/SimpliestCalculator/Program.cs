@@ -1,4 +1,6 @@
-﻿char again = 'д';
+﻿Console.WriteLine("Простейший консольный калькулятор для лабораторной работы №5\n");
+
+char again = 'д';
 while (again == 'д')
 {
     double a;
